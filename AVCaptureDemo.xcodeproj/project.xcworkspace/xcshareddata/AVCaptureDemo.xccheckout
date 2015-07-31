@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C513E765-82FC-48D4-BCC8-AFF8364F2ACB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AVCaptureDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9B3D02E55EEA650E7A7A3A478FAFCA4DE10979BB</key>
+		<string>https://github.com/mmvery12/AVCaptureDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AVCaptureDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9B3D02E55EEA650E7A7A3A478FAFCA4DE10979BB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mmvery12/AVCaptureDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9B3D02E55EEA650E7A7A3A478FAFCA4DE10979BB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9B3D02E55EEA650E7A7A3A478FAFCA4DE10979BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AVCaptureDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
